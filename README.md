@@ -1,16 +1,15 @@
-process management
+1. process management
 
-services and systemctl
+2. services and systemctl
 
-ports and sockets
+3. ports and sockets
 
-CPU, memory, disk, inode usage
+4. CPU, memory, disk, inode usage
 
-permissions
+5. permissions
 
-SSH basics
+6. SSH basics
 
-logs with journalctl, dmesg, tail, grep, awk, sed
+7. logs with journalctl, dmesg, tail, grep, awk, sed
 
-finding why a build or job failed
-
+8. finding why a build or job failed
